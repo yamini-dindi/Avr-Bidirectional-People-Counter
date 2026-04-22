@@ -32,5 +32,6 @@ A real-time people counting system using AVR microcontroller, dual PIR sensors, 
 - EEPROM memory backup
 - Wi-Fi logging using ESP32
 
-  ##DEmo video
-  [Watch Project Demo](https://www.linkedin.com/posts/activity-7452318894070890496-1vfz?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEhoTdEBaiwlRRQ-JYEoohnzfeSjPpGZ578)
+  ##Demo video
+
+[Watch Project Demo](https://www.linkedin.com/posts/activity-7452318894070890496-1vfz?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEhoTdEBaiwlRRQ-JYEoohnzfeSjPpGZ578)
